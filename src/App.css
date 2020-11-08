@@ -183,3 +183,48 @@
   width: 70%;
   padding: 5px;
 }
+
+#community-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  font-weight: 700;
+  top: 40%;
+  width: 70%;
+  padding: 50px 0px 50px 0px;
+}
+
+#community-bullet {
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: left;
+  margin: auto;
+  font-size: 15px;
+  font-weight: 300;
+  top: 40%;
+  width: 40%;
+}
+
+#community gif {
+  position: absolute;
+  height: 10vmin;
+  margin: 2.4rem 2.4rem 2.4rem 2.4rem;
+  pointer-events: none;
+  padding: 10px;
+}
+
+.Community-icon {
+  position: relative;
+  flex: 33.33%;
+  padding: 5px;
+}
+
+#text{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  margin: auto;
+  font-size: 15px;
+  font-weight: 200;
+  padding: 10px 0px 10px 0px
+}
